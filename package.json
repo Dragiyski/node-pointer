@@ -1,0 +1,8 @@
+{
+  "name": "@dragiyski/pointer",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cmake-js": "^6.1.0"
+  }
+}
